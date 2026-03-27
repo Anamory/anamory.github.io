@@ -1,3 +1,8 @@
 theme: minima
 title: Jaeyeong Yoo
 description: Mathematics
+
+header_pages:
+  - cv.md
+  - math.md
+  - game.md
