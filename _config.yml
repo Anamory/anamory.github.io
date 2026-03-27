@@ -1,7 +1,9 @@
 theme: minima
 title: Jaeyeong Yoo
 description: Mathematics
-
+#미래글 보이도
+future:true
+#메뉴
 header_pages:
   - cv.md
   - math.md
