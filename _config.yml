@@ -1,9 +1,8 @@
-theme: minima
 title: Jaeyeong Yoo
-description: Mathematics
-#미래글 보이도
-future:true
-#메뉴
+description: Analytic Number Theory / Partitions / q-series
+theme: minima
+future: true
+
 header_pages:
   - cv.md
   - math.md
