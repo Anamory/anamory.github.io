@@ -34,4 +34,4 @@ B.S. in Mathematics | 08/2023
 
 ## Contact
 - Email(1): yoo.jaeyeong.879@s.kyushu-u.ac.jp
-- Email(2): anamory726@gmail.com 
+- Email(2): anamory726@gmail.com
