@@ -6,8 +6,8 @@ permalink: /math/
 
 # Math Posts
 
-{% raw %}
+<ul>
 {% for post in site.categories.math %}
-- [{{ post.title }}]({{ post.url }})
+  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
-{% endraw %}
+</ul>
