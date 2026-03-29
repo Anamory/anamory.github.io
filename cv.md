@@ -21,7 +21,7 @@ Advisor: Prof. Toshiki Matsusaka
 M.S. in Mathematics | 08/2025  
 Advisor: Prof. Soon-Yi Kang
 - Kangwon National University | Chuncheon, South Korea  
-B.S. in Mathematics | 08/2023
+B.S. in Mathematics | 08/2023  
 Advisor: Prof. Soon-Yi Kang
 
 ## Publications
