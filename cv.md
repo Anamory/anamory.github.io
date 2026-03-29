@@ -14,13 +14,13 @@ The Graduate School of Mathematics, Kyushu University
 - Partition theory
 
 ## Education
-- Kyushu University | Fukuoka, Japan
-Ph.D. student in Mathematics | 10/2025-
+- Kyushu University | Fukuoka, Japan  
+Ph.D. student in Mathematics | 10/2025-  
 Advisor: Prof. Toshiki Matsusaka
-- Kangwon National University | Chuncheon, South Korea
-M.S. in Mathematics | 08/2025
+- Kangwon National University | Chuncheon, South Korea  
+M.S. in Mathematics | 08/2025  
 Advisor: Prof. Soon-Yi Kang
-- Kangwon National University | Chuncheon, South Korea
+- Kangwon National University | Chuncheon, South Korea  
 B.S. in Mathematics | 08/2023
 
 ## Publications
@@ -28,9 +28,9 @@ B.S. in Mathematics | 08/2023
 - GBG-rank generating functions for ordinary self-conjugate, and doubled distinct partitions(with H. Cho, E. Kim, H.H. Lee, K. Lee, A.J. Yee). *The Ramanujan journal* 68, 94 (2025)
 
 ## Presentations
-- GBG-rank generating functions for integer partitions, Mathsci Freshman Seminar 2026, Nagoya University, Japan. February 2026.
-- GBG-rank generating functions For Ordinary, Self-conjugate, and Doubled distinct partitions. Poster presentation, FPSAC 2025, Hokkaido University, Japan. July 2025.
--GBG-rank generating functions for integer partitions, Kangwon–Gyeonggi Mathematical Society, Kyung Hee University, Korea. June 2025.
+- GBG-rank generating functions for integer partitions, *Mathsci Freshman Seminar 2026*, Nagoya University, Japan. February 2026.
+- GBG-rank generating functions For Ordinary, Self-conjugate, and Doubled distinct partitions. Poster presentation, *FPSAC 2025*, Hokkaido University, Japan. July 2025.
+- GBG-rank generating functions for integer partitions, *Kangwon–Gyeonggi Mathematical Society*, Kyung Hee University, Korea. June 2025.
 
 ## Contact
 - Email(1): yoo.jaeyeong.879@s.kyushu-u.ac.jp
