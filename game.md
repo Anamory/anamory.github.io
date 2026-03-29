@@ -6,8 +6,8 @@ permalink: /game/
 
 # Game Posts
 
-{% raw %}
+<ul>
 {% for post in site.categories.game %}
-- [{{ post.title }}]({{ post.url }})
+  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
-{% endraw %}
+</ul>
