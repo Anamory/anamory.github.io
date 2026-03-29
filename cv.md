@@ -22,6 +22,7 @@ M.S. in Mathematics | 08/2025
 Advisor: Prof. Soon-Yi Kang
 - Kangwon National University | Chuncheon, South Korea  
 B.S. in Mathematics | 08/2023
+Advisor: Prof. Soon-Yi Kang
 
 ## Publications
 - Hauptmoduln and even-order mock theta functions modulo 2(with S,-Y. Kang, S. Kim, T. Matsusaka). *J. Korean Math. Soc.* 62, no. 5, 1297–1312. (2025)
