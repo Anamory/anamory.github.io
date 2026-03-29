@@ -14,5 +14,5 @@ categories: [game]
 수식 테스트
 $$
 \prod_{n=1}^{\infty} {1 \over {(1-q^n)}}
-$$
+$$ 
 
