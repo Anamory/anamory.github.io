@@ -10,4 +10,4 @@ permalink: /math/
 {% for post in site.categories.math %}
   <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
-</ul> 
+</ul>
