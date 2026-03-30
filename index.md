@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Home
+title: Jaeyeong Yoo 유재영
 ---
-
-# Jaeyeong Yoo 유재영
 
 ## Affiliation
 The Graduate School of Mathematics, Kyushu University
