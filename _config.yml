@@ -2,3 +2,8 @@ title: Jaeyeong Yoo
 description: Number theory / Integer partition
 theme: minima
 future: true
+
+url: "https://anamory.github.io"
+
+plugins:
+  - jekyll-sitemap
